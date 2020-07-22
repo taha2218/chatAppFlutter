@@ -1,6 +1,8 @@
 # Chat_App
 
 A new Flutter project.
+Texting App built from scartch using flutter and firebase !
+Images : https://github.com/taha2218/chatAppFlutter/issues/1
 
 ## Getting Started
 
