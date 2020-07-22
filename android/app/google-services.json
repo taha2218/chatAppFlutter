@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "229030629805",
+    "firebase_url": "https://tarah-829c2.firebaseio.com",
+    "project_id": "tarah-829c2",
+    "storage_bucket": "tarah-829c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229030629805:android:43704ce690be92b4271124",
+        "android_client_info": {
+          "package_name": "com.example.Chat_App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229030629805-agded37331cknn18uon90u3s1ooqf9rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSytMkOPVh4YtAIgtkqU1IQIHA02uQ6bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229030629805-agded37331cknn18uon90u3s1ooqf9rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
